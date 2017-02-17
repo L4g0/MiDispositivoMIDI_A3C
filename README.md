@@ -5,11 +5,12 @@ Hi! We are BanaNut Electronics and we develop software and hardware for Arduino 
 * Facebook: https://www.facebook.com/bananutelectronics
 * Tindie: 
 
-![BN_PIC](https://github.com/bananutelectronics/MiDispositivoMIDI/blob/master/img/bananut-electronics.jpg)
+![BN_PIC](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/bananut.png)
 
 # MiDispositivoMIDI_A3C
 We are proud to present the MiDispositivoMIDI revA3C, which is the latest version we have out in the market. You can buy it in our webpage or in tindie. In this repository you will find documentation about the controller and code. If you know how to code and you want to colaborate with the project, feel free to do it. If you don't, here you will find a bunch of codes that you just will need to upload to your controller, simple as that.
-![MDM_V3](https://github.com/bananutelectronics/MiDispositivoMIDI/blob/master/img/bananut-electronics-mdm-v3.jpg)
+![MDM_V3_1](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/mdm.jpg)
+![MDM_V3_2](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/back.jpg)
 
 # Important
 You will need the following libraries to make the code work: MIDI USB and Adafruit NeoPixel
