@@ -1,20 +1,38 @@
-# MiDispositivoMIDI_A3C
-This repository contains source code and hardware schematics of MiDispositivoMIDI. It is an opensource MIDI controller that can be bought in our website (www.bananutelectronics.com). Feel free to create new code, fork this repository and ask questions in our forum.
+# BanaNut Electronics
+Hi! We are BanaNut Electronics and we develop software and hardware for Arduino and educational purposes. Feel free to visit us in out social networks:
+* Instagram: https://www.instagram.com/bananutelectronics
+* Twitter: https://twitter.com/bn_electronics
+* Facebook: https://www.facebook.com/bananutelectronics
+* Tindie: 
 
-# Hardware License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MiDispositivoMIDI</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.bananutelectronics.com" property="cc:attributionName" rel="cc:attributionURL">Alvaro Lopez & Pablo de Miguel Morales</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
+![BN_PIC](https://github.com/bananutelectronics/MiDispositivoMIDI/blob/master/img/bananut-electronics.jpg)
+
+# MiDispositivoMIDI_A3C
+We are proud to present the MiDispositivoMIDI revA3C, which is the latest version we have out in the market. You can buy it in our webpage or in tindie. In this repository you will find documentation about the controller and code. If you know how to code and you want to colaborate with the project, feel free to do it. If you don't, here you will find a bunch of codes that you just will need to upload to your controller, simple as that.
+![MDM_V3](https://github.com/bananutelectronics/MiDispositivoMIDI/blob/master/img/bananut-electronics-mdm-v3.jpg)
 
 # Important
 You will need the following libraries to make the code work: MIDI USB and Adafruit NeoPixel
 * https://github.com/arduino-libraries/MIDIUSB
 * https://github.com/adafruit/Adafruit_NeoPixel
 
-We also recommend using the Arduino Sketch to make the programming. Remember to select "Arduino Leonardo" as target board
+We also recommend using the Arduino Sketch to make the programming. Remember to select "Arduino Leonardo" as target board.
 
-# Codes
-In each code you will find detailed information about each code. What it does, and how does it work. We also provide some exercises por people that want to mess arround with the controller.
+# Media
+* https://www.youtube.com/watch?v=3QnzLwpbpRE&t
+* https://www.youtube.com/watch?v=8WFfShg-0Dk
+* https://www.youtube.com/watch?v=2y8fhmTmedI
+* https://www.youtube.com/watch?v=TsuVpFoLFyI
 
-# Changelog
-* July 14th 2016: Initial release of code
-* October 6th 2016: Hardware schematics are published.
-* -
+# General information
+* MiDispositivoMIDI is the latest version of our controller.
+* It can act as any other MIDI device. There is no need to convert from serial to MIDI.
+* Have 16 pad buttons in a 4x4 matrix.
+* Have 2 lateral buttons.
+* Have RGB leds with 256 levels of intensity of each color.
+* Micro USB conection.
+* Dimensions of 10x10 cm.
+
+
+# Hardware License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MiDispositivoMIDI</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.bananutelectronics.com" property="cc:attributionName" rel="cc:attributionURL">Alvaro Lopez & Pablo de Miguel Morales</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
