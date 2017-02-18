@@ -1,9 +1,10 @@
 
 /*
-    MiDispositivoMIDI V3 Rev.A1B StepSeq
-    This code works for 16 buttons, without any expansion (GENERALIZARLO - FALTA)
+    MiDispositivoMIDI V3 Rev.A1C StepSeq
+    This code works for 16 buttons, without any expansion
     It is a step sequencer, that gets via MIDI the existing tempo in Ableton and
     send a note if the button is pressed.
+    Tests
 */
 // Library Import
 #include <Adafruit_NeoPixel.h>

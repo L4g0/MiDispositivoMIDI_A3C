@@ -1,14 +1,14 @@
 # BanaNut Electronics
-Hi! We are BanaNut Electronics and we develop software and hardware for Arduino and educational purposes. Feel free to visit us in out social networks:
+Hi! We are BanaNut Electronics and we develop software and hardware for Arduino with educational purposes. Feel free to visit us in out social networks:
 * Instagram: https://www.instagram.com/bananutelectronics
 * Twitter: https://twitter.com/bn_electronics
 * Facebook: https://www.facebook.com/bananutelectronics
-* Tindie: 
+* Tindie: https://www.tindie.com
 
 ![BN_PIC](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/bananut.png)
 
 # MiDispositivoMIDI_A3C
-We are proud to present the MiDispositivoMIDI revA3C, which is the latest version we have out in the market. You can buy it in our webpage or in tindie. In this repository you will find documentation about the controller and code. If you know how to code and you want to colaborate with the project, feel free to do it. If you don't, here you will find a bunch of codes that you just will need to upload to your controller, simple as that.
+We are proud to present the MiDispositivoMIDI revA3C ([what is that?](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/wiki), which is the latest version we have out in the market. You can buy it in our webpage or in tindie. In this repository you will find documentation about the controller and code. If you know how to code and you want to colaborate with the project, feel free to do it. If you don't, here you will find a bunch of codes that you just will need to upload to your controller, simple as that.
 ![MDM_V3_1](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/mdm.jpg)
 ![MDM_V3_2](https://github.com/bananutelectronics/MiDispositivoMIDI_A3C/blob/master/04_img/back.jpg)
 
@@ -33,6 +33,9 @@ We also recommend using the Arduino Sketch to make the programming. Remember to 
 * Have RGB leds with 256 levels of intensity of each color.
 * Micro USB conection.
 * Dimensions of 10x10 cm.
+
+# Documentation
+Check the wiki section for further information.
 
 
 # Hardware License

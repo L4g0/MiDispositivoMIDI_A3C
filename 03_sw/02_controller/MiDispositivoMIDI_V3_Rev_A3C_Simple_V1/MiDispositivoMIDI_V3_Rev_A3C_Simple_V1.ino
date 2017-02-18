@@ -1,6 +1,6 @@
 /* 
  *  MiDispositivoMIDI V3 Rev.A1C Simple
- *  EN PRUEBAS
+ *  
  */
 // Library Import
 #include <Adafruit_NeoPixel.h>
